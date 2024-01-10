@@ -1,0 +1,14 @@
+D:\GitAssignment\Phase 4\Day3\ConAppOne\ConAppOne\bin\Debug\net6.0\ConAppOne.exe
+D:\GitAssignment\Phase 4\Day3\ConAppOne\ConAppOne\bin\Debug\net6.0\ConAppOne.deps.json
+D:\GitAssignment\Phase 4\Day3\ConAppOne\ConAppOne\bin\Debug\net6.0\ConAppOne.runtimeconfig.json
+D:\GitAssignment\Phase 4\Day3\ConAppOne\ConAppOne\bin\Debug\net6.0\ConAppOne.dll
+D:\GitAssignment\Phase 4\Day3\ConAppOne\ConAppOne\bin\Debug\net6.0\ConAppOne.pdb
+D:\GitAssignment\Phase 4\Day3\ConAppOne\ConAppOne\obj\Debug\net6.0\ConAppOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitAssignment\Phase 4\Day3\ConAppOne\ConAppOne\obj\Debug\net6.0\ConAppOne.AssemblyInfoInputs.cache
+D:\GitAssignment\Phase 4\Day3\ConAppOne\ConAppOne\obj\Debug\net6.0\ConAppOne.AssemblyInfo.cs
+D:\GitAssignment\Phase 4\Day3\ConAppOne\ConAppOne\obj\Debug\net6.0\ConAppOne.csproj.CoreCompileInputs.cache
+D:\GitAssignment\Phase 4\Day3\ConAppOne\ConAppOne\obj\Debug\net6.0\ConAppOne.dll
+D:\GitAssignment\Phase 4\Day3\ConAppOne\ConAppOne\obj\Debug\net6.0\refint\ConAppOne.dll
+D:\GitAssignment\Phase 4\Day3\ConAppOne\ConAppOne\obj\Debug\net6.0\ConAppOne.pdb
+D:\GitAssignment\Phase 4\Day3\ConAppOne\ConAppOne\obj\Debug\net6.0\ConAppOne.genruntimeconfig.cache
+D:\GitAssignment\Phase 4\Day3\ConAppOne\ConAppOne\obj\Debug\net6.0\ref\ConAppOne.dll
